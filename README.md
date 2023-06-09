@@ -4,6 +4,7 @@
 **ibrahimdeveci/ibrahimdeveci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
